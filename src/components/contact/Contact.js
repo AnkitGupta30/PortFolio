@@ -28,9 +28,9 @@ const Contact = () => {
                     </div>
 
                     <div className="contact__card">
-                        <i className="bx bxl-whatsapp contact__card-icon"></i>
-                        <h3 className="contact__card-title">Whatsapp</h3>
-                        <span className="contact__card-data">7295011621</span>
+                        <i className="bx bxl-github contact__card-icon"></i>
+                        <h3 className="contact__card-title">Github</h3>
+                        <span className="contact__card-data">AnkitGupta30</span>
                         <a href="#" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
